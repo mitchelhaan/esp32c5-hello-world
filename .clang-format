@@ -1,0 +1,7 @@
+---
+BasedOnStyle: LLVM
+
+BinPackArguments: false
+BinPackParameters: OnePerLine
+ColumnLimit: 100
+IncludeBlocks: Regroup
